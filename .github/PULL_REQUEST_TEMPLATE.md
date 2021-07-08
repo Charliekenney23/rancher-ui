@@ -18,7 +18,7 @@ What types of changes does your code introduce to Rancher?
 
 -->
 
-Linked Issues
+Linked issues
 ======
 <!--
 
